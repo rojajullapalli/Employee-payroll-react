@@ -1,0 +1,21 @@
+.input{
+    justify-content:space-between;
+    width: 40%;
+    height: 40px;
+    flex-wrap: wrap;
+    align:left;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    border: none;
+    color: black;
+    padding: 12px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+
+  #color:hover {
+    background-color: rgb(131, 201, 131);
+  }
